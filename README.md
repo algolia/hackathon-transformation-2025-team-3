@@ -1,2 +1,2 @@
-# hackathon-transformation-2025-Frodge
+# Smart Facets
 Repository for the Frodge team
